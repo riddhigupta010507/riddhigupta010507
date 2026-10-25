@@ -64,28 +64,38 @@ I enjoy learning through projects, experimenting with new ideas, and turning wha
 
 ---
 
-## 🎀 03 · Little things I've built
+## 🌸 My Projects
 
-<!-- BLUSH PINK -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Student Result Viewer
+### 🌿 Riddhi Gupta Portfolio
 
-A web development project for viewing student academic results.
+My personal portfolio showcasing my skills, projects, and journey as a Computer Science Engineering student.
 
-| Project detail | Description |
-|---|---|
-| Purpose | Student result viewing |
-| Backend | PHP |
-| Database | MySQL |
-| Interface | HTML, CSS, Bootstrap |
+**Tech Stack:** HTML, CSS, JavaScript
 
-<div align="center">
+🔗 [View Repository](YOUR-PORTFOLIO-REPOSITORY-LINK)  
+✨ [Live Demo](YOUR-LIVE-PORTFOLIO-LINK)
 
-<a href="https://github.com/riddhigupta010507/Internship-Projects">
-<img src="https://img.shields.io/badge/EXPLORE%20PROJECT-F3D4D6?style=for-the-badge&logo=github&logoColor=925968" alt="Explore my project"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 🎓 Student Result Viewer
+
+A web-based project for managing student information and displaying academic results.
+
+**Tech Stack:** HTML, CSS, PHP, MySQL
+
+🔗 [View Repository](YOUR-STUDENT-RESULT-REPOSITORY-LINK)  
+🌐 [Live Demo](YOUR-STUDENT-RESULT-LIVE-LINK)
+
+</td>
+</tr>
+</table>
+
+
 
 *More projects will join this collection as I keep building.*
 

@@ -133,6 +133,21 @@ I'm working on becoming more consistent with problem-solving through LeetCode an
 
 <br/><br/>
 
+## 💌 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_PROFILE_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-DCE8D5?style=for-the-badge&logo=linkedin&logoColor=426D61" alt="Connect with me on LinkedIn"/>
+</a>
+
+<a href="https://github.com/riddhigupta010507">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-E7DDF5?style=for-the-badge&logo=github&logoColor=65527F" alt="Explore my GitHub"/>
+</a>
+
+</div>
+
+
 ### ✿ Building my future, one commit at a time.
 
 <sub>Thanks for visiting my little corner of GitHub ♡</sub>

@@ -137,7 +137,7 @@ I'm working on becoming more consistent with problem-solving through LeetCode an
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="www.linkedin.com/in/riddhi-g-5046143a3">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-DCE8D5?style=for-the-badge&logo=linkedin&logoColor=426D61" alt="Connect with me on LinkedIn"/>
 </a>
 

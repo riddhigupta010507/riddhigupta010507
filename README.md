@@ -76,8 +76,8 @@ My personal portfolio showcasing my skills, projects, and journey as a Computer 
 
 **Tech Stack:** HTML, CSS, JavaScript
 
-🔗 [View Repository](YOUR-PORTFOLIO-REPOSITORY-LINK)  
-✨ [Live Demo](YOUR-LIVE-PORTFOLIO-LINK)
+🔗 [View Repository]([YOUR-PORTFOLIO-REPOSITORY-LINK](https://github.com/riddhigupta010507/Riddhi-gupta-Portfolio))  
+✨ [Live Demo]([YOUR-LIVE-PORTFOLIO-LINK](http://127.0.0.1:5500/index.html#skills))
 
 </td>
 <td width="50%" valign="top">

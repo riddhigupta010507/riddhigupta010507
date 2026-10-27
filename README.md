@@ -109,7 +109,7 @@ I'm working on becoming more consistent with problem-solving through LeetCode an
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href= https://leetcode.com/u/Riddhi_gupta2007/>
 <img src="https://img.shields.io/badge/LEETCODE-FCE8D9?style=for-the-badge&logo=leetcode&logoColor=895E48" alt="LeetCode profile"/>
 </a>
 
